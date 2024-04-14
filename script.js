@@ -1,2 +1,3 @@
 //your JS code here. If required.
-document.write("DOM load success");
+const domLoadSuccess = document.createElement("div");
+domLoadSuccess.innerText="DOM load success";
